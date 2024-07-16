@@ -59,7 +59,7 @@ The repository is organized into the following subfolders:
 To get started with this repository, clone it to your local machine:
 
 ```bash
-git clone https://github.com/your-username/Data-Science-and-Machine-Learning.git
+git clone https://github.com/SiddharthDhirde/Data-Science-and-Machine-Learning.git
 ```
 Make sure you have the necessary Python packages installed. You can install the required packages using:
 ```bash
